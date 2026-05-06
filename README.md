@@ -55,15 +55,15 @@ The screenshots below show my PortSwigger Web Security Academy progress and samp
 
 ### Progress Overview
 
-![PortSwigger Progress Rank](screenshots/portswigger-progress-rank.png)
+![PortSwigger Progress Rank](screenshots/screenshots/portswigger-progress-rank.png)
 
 ### Sample Solved Labs
 
-![Solved XSS Sample](screenshots/portswigger-solved-xss-sample.png)
+![Solved XSS Sample](screenshots/screenshots/portswigger-solved-xss-sample.png)
 
-![Solved API Testing Sample](screenshots/portswigger-solved-api-testing-sample.png)
+![Solved API Testing Sample](screenshots/screenshots/portswigger-solved-api-testing-sample.png)
 
-![Solved HTTP Request Smuggling Sample](screenshots/portswigger-solved-http-request-smuggling-sample.png)
+![Solved HTTP Request Smuggling Sample](screenshots/screenshots/portswigger-solved-http-request-smuggling-sample.png)
 
 ## Notes
 
